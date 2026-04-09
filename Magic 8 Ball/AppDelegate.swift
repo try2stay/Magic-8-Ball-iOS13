@@ -8,8 +8,7 @@
 
 import UIKit
 
-@UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+@UIApplicationMain @MainActor internal class AppDelegate : UIResponder, UIApplicationDelegate {
 
 
 
